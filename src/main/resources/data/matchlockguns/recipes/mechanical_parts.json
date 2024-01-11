@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ng",
+    "nGn",
+    " n "
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:iron_nugget"
+    },
+    "g": {
+      "item": "minecraft:gold_nugget"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "matchlockguns:mechanical_parts",
+    "count": 1
+  }
+}

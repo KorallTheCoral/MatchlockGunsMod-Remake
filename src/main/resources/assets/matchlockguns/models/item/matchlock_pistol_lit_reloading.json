@@ -1,0 +1,6 @@
+{
+  "parent": "matchlockguns:item/base_gun_model_reloading",
+  "textures": {
+    "layer0": "matchlockguns:item/matchlock_pistol_lit"
+  }
+}

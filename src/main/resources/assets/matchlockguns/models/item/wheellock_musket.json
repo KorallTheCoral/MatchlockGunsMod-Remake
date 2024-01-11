@@ -1,0 +1,14 @@
+{
+  "parent": "matchlockguns:item/base_gun_model",
+  "textures": {
+    "layer0": "matchlockguns:item/wheellock_musket"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "matchlockguns:isloading": 1
+      },
+      "model": "matchlockguns:item/wheellock_musket_reloading"
+    }
+  ]
+}

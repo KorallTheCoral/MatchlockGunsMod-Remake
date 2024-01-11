@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "SP ",
+    "nmn"
+  ],
+  "key": {
+    "m": {
+      "item": "matchlockguns:mechanical_parts"
+    },
+    "n": {
+      "item": "minecraft:iron_nugget"
+    },
+    "P": {
+      "tag": "forge:raw_materials/pyrite"
+    },
+    "S": {
+      "tag": "forge:tools/screwdrivers"
+    }
+  },
+  "result": {
+    "item": "matchlockguns:wheellock_mechanism"
+  }
+}

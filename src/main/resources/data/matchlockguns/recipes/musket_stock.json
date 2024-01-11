@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "ppp",
+    " pp"
+  ],
+  "key": {
+    "p": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "matchlockguns:musket_stock"
+  }
+}

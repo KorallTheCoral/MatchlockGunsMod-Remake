@@ -1,0 +1,33 @@
+{
+  "item.matchlockguns.round": "Round",
+  "item.matchlockguns.ramrod": "Ramrod",
+
+  "item.matchlockguns.basic_tool": "Screwdriver",
+  "item.matchlockguns.advanced_tool": "Netherite Screwdriver",
+
+  "item.matchlockguns.pistol_grip": "Pistol Grip",
+  "item.matchlockguns.musket_stock": "Musket Stock",
+  "item.matchlockguns.gun_barrel": "Gun Barrel",
+  "item.matchlockguns.rifle_barrel": "Rifled Barrel",
+  "item.matchlockguns.matchlock_mechanism": "Matchlock",
+  "item.matchlockguns.wheellock_mechanism": "Wheellock",
+  "item.matchlockguns.flintlock_mechanism": "Flintlock",
+  "item.matchlockguns.revolver_mechanism": "Revolver Mechanism",
+  "item.matchlockguns.mechanical_parts": "Mechanical Parts",
+
+  "item.matchlockguns.small_cartridge": "Small Cartridge",
+  "item.matchlockguns.large_cartridge": "Large Cartridge",
+
+  "item.matchlockguns.pyrite": "Pyrite",
+
+  "item.matchlockguns.matchlock_arquebus": "Matchlock Arquebus",
+  "item.matchlockguns.matchlock_pistol": "Matchlock Pistol",
+
+  "item.matchlockguns.wheellock_pistol": "Wheellock Pistol",
+  "item.matchlockguns.wheellock_musket": "Wheellock Musket",
+
+  "item.matchlockguns.flintlock_musket": "Flintlock Musket",
+  "item.matchlockguns.flintlock_pistol": "Flintlock Pistol",
+  "item.matchlockguns.flintlock_revolver": "Flintlock Revolver",
+  "item.matchlockguns.flintlock_rifle": "Flintlock Rifle"
+}

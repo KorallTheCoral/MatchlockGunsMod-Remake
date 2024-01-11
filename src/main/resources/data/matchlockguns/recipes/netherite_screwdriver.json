@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  i",
+    " n ",
+    "p  "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "n": {
+      "item": "minecraft:iron_nugget"
+    },
+    "p": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "matchlockguns:advanced_tool"
+  }
+}

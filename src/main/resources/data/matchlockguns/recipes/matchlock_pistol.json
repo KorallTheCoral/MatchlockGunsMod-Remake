@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    " m",
+    "bg"
+  ],
+  "key": {
+    "b": {
+      "item": "matchlockguns:gun_barrel"
+    },
+    "g": {
+      "item": "matchlockguns:pistol_grip"
+    },
+    "m": {
+      "item": "matchlockguns:matchlock_mechanism"
+    }
+  },
+  "result": {
+    "item": "matchlockguns:matchlock_pistol"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "  f",
+    "bbs"
+  ],
+  "key": {
+    "b": {
+      "item": "matchlockguns:gun_barrel"
+    },
+    "s": {
+      "item": "matchlockguns:musket_stock"
+    },
+    "f": {
+      "item": "matchlockguns:flintlock_mechanism"
+    }
+  },
+  "result": {
+    "item": "matchlockguns:flintlock_musket"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "  m",
+    "bbs"
+  ],
+  "key": {
+    "b": {
+      "item": "matchlockguns:gun_barrel"
+    },
+    "s": {
+      "item": "matchlockguns:musket_stock"
+    },
+    "m": {
+      "item": "matchlockguns:matchlock_mechanism"
+    }
+  },
+  "result": {
+    "item": "matchlockguns:matchlock_arquebus"
+  }
+}

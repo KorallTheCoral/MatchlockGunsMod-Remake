@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "III",
+    "mSm",
+    "III"
+  ],
+  "key": {
+    "m": {
+      "item": "matchlockguns:mechanical_parts"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "matchlockguns:advanced_tool"
+    }
+  },
+  "result": {
+    "item": "matchlockguns:revolver_mechanism"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "matchlockguns:item/base_gun_model",
+  "textures": {
+    "layer0": "matchlockguns:item/matchlock_arquebus_lit"
+  }
+}

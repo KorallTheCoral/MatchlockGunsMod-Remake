@@ -1,0 +1,27 @@
+{
+  "parent": "matchlockguns:item/base_gun_model",
+  "textures": {
+    "layer0": "matchlockguns:item/matchlock_pistol"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "matchlockguns:islit": 1
+      },
+      "model": "matchlockguns:item/matchlock_pistol_lit"
+    },
+    {
+      "predicate": {
+        "matchlockguns:isloading": 1
+      },
+      "model": "matchlockguns:item/matchlock_pistol_reloading"
+    },
+    {
+      "predicate": {
+        "matchlockguns:islit": 1,
+        "matchlockguns:isloading": 1
+      },
+      "model": "matchlockguns:item/matchlock_pistol_lit_reloading"
+    }
+  ]
+}
